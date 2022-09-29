@@ -1,2 +1,2 @@
-# rishabhshah
+# Rishabh Shah
 Code samples
